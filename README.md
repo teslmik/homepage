@@ -1,3 +1,3 @@
 # homepage
 My very own personal website. Basically this is just a résumé.
-"🧙Hocus-pocus!"
+Follow my resume at https://teslmik.github.io/homepage/index.html
