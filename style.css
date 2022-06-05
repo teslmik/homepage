@@ -100,7 +100,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: max-content;
+  width: 200px;
 }
 
 .contact-info__block--center {
