@@ -76,6 +76,10 @@ body {
   .experiences {
     margin-right: 0;
   }
+
+  .other-info {
+    flex-direction: column;
+  }
 }
 
 /* Contact info styles */
@@ -292,4 +296,23 @@ body {
 
 .additional-info__languages-item {
   color: var(--secondary-text-color);
+}
+
+.other-info {
+  flex: 1 1 33.333%;
+  gap: 20px;
+}
+
+.likes,
+.dislikes,
+.hobbies {
+  flex: 1 1 33%;
+}
+
+.likes__header,
+.dislikes__header,
+.hobbies__header {
+  color: var(--secondary-text-color);
+  margin-bottom: 20px;
+  text-align: left;
 }
