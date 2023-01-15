@@ -80,6 +80,10 @@ body {
   .other-info {
     flex-direction: column;
   }
+
+  .container {
+  padding: 0 15px;
+}
 }
 
 /* Contact info styles */
